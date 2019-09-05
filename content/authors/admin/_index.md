@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Derek J. Hanson
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student - University of Texas at Austin
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Texas at Austin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
