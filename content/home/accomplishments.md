@@ -20,13 +20,13 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  # organization_url = "https://www.coursera.org"
+  title = "Thoughts During Learning: What Role Do They Play?"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  # certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
   date_end = ""
-  description = ""
+  description = "When students read to learn, many thoughts can cross their mind. Am I understanding this? Will I remember it later? Is this too difficult? What did I just read? These thoughts influence our learning, cueing us to stop reading when we are satisfied, or go back when our goals are not met yet. Despite significant reading comprehension research, little is known about the thoughts learners have when reading and how these influence behavior (metacomprehension and judgments of learning)."
 
 [[item]]
   organization = "edX"
