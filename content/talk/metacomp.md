@@ -9,7 +9,7 @@ title = "Thoughts During Learning: What Role Do They Play?"
 summary = "When students read, many thoughts come into their mind about their learning. What are these thoughts and how do they influence learning?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "books.jpg"
+image_preview = "books_color.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
