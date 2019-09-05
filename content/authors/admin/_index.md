@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student - University of Texas at Austin
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
