@@ -32,4 +32,10 @@ subtitle = ""
   name = "Photography"
   description = "10%"
 
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "40%"
+  
 +++
