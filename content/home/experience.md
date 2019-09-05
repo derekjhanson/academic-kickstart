@@ -31,13 +31,4 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
 
-[[experience]]
-  title = "TA"
-  company = "SDS 302 Data Analysis for the Health Sciences"
-  company_url = ""
-  location = "UT - Austin"
-  date_start = "2019-01-01"
-  date_end = "2019-06-01"
-  description = """"""
-
 +++
