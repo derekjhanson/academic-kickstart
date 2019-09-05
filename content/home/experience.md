@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "SDS 302 - Data Analysis for the Health Sciences"
   company_url = ""
   location = "UT - Austin"
-  date_start = "Fall 2019"
+  date_start = "2019-08-01"
   date_end = ""
   description = """
   Responsibilities include:
