@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "Students become familiar with the education system over time, eventually completing many familiar (fluent) tasks on "auto-pilot". This shallow processing can lead to mistakes and lower levels of learning. This experiment examines the impact of simple changes to a familiar object (a paper-based test) on student performance. Possible related individual differences, such as Need for Cognition, are examined for relationships with performance, as well."
+  description = "Students become familiar with the education system over time, eventually completing many familiar (fluent) tasks on 'auto-pilot'. This shallow processing can lead to mistakes and lower levels of learning. This experiment examines the impact of simple changes to a familiar object (a paper-based test) on student performance. Possible related individual differences, such as Need for Cognition, are examined for relationships with performance, as well."
   
 [[item]]
   organization = "DataCamp"
