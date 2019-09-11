@@ -8,7 +8,7 @@
   url = "#about"
   weight = 10
 
-[[menu.main]]
+[[main]]
   name = "Publications"
   url = "#publications_selected"
   weight = 20
