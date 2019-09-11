@@ -20,8 +20,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Graduate Teaching Assistant"
-  company = "SDS 302 - Data Analysis for the Health Sciences<br/>
-  & SDS 351M Biostatistics"
+  company = "SDS 302 - Data Analysis for the Health Sciences & SDS 351M - Biostatistics"
   company_url = "https://stat.utexas.edu/"
   location = "Austin, TX, USA"
   date_start = "2017-08-01"
