@@ -23,7 +23,7 @@ publication = "*Kaggle Competition: NCAA 2019 Men's March Madness*, April 2019."
 publication_short = "*NCAA Bracket Competition - Machine Learning*"
 
 # Abstract and optional shortened version.
-abstract = "Applied machine learning techniques (ensemble Random Forests and Multiple Regression) to historic NCAA competition data to develop specific predictions for the 2019 NCAA Men's Basketball Tournament. Scored based upon ---, my entry finished in the top 15% of nearly 900 competitors."
+abstract = "Applied machine learning techniques (ensemble Random Forests and Multiple Regression) to historic NCAA competition data to develop specific predictions for the 2019 NCAA Men's Basketball Tournament. Scored based upon ---, my entry finished in the top 15% of 951 competitors."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
