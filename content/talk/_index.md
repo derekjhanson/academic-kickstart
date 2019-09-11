@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Sports Statistics Projects
 
 # View.
 #   1 = List
