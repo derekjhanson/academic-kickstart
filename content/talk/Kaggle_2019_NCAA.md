@@ -1,6 +1,3 @@
-# 
-Apply Machine Learning to NCAA® March Madness®
-
 +++
 
 title = "Google Cloud & NCAA® ML Competition 2019-Men's"
