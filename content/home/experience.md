@@ -20,28 +20,32 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Graduate Teaching Assistant"
-  company = "SDS 302 - Data Analysis for the Health Sciences"
+  company = "SDS 302 - Data Analysis for the Health Sciences & SDS 351M Biostatistics"
   company_url = "https://stat.utexas.edu/"
   location = "Austin, TX, USA"
-  date_start = "2019-08-01"
+  date_start = "2017-08-01"
   date_end = ""
   description = """
+  Worked with Dr. Harvey, Dr. Hong, Dr. Teufel, & Dr. Kang across five semesters of statistics courses.
+  
   * Taught three statistics lab sections, facilitating application of statistical concepts to real-life data
   * Explained statistical concepts and methods in-class and during three weekly office hours
   * Graded ~100 student exams throughout the semester and final research poster projects
   """
 
 [[experience]]
-  title = "Research Aide"
-  company = "Argonne National Laboratory"
-  company_url = "https://www.anl.gov/es"
-  location = "Lemont, IL, USA"
-  date_start = "2015-06-01"
-  date_end = "2015-09-30"
+  title = "Graduate Teaching Assistant"
+  company = "HDL 313H - Honors Child Development"
+  company_url = "https://he.utexas.edu/component/cobalt/item/14-human-ecology/242-dix-theodore-h?Itemid=1481"
+  location = "Austin, TX, USA"
+  date_start = "2017-01-01"
+  date_end = "2017-05-30"
   description = """
-  Energy Systems Division
+  Worked with Dr. Dix.
   
-  Worked with Dr. Audun Botterud, Dr. Zhi Zhou and Dr. Cong Liu on renewable integration with stochastic unit commitment
+  * Led daily in-class discussion groups, facilitating the conversation and directing inquiry into the concepts
+  * Provided detailed, individual feedback on course essays
+  * Lectured on statistical topics to aid students in completion of their final projects (multiple regression, correlation, data cleaning)
 """
 
 [[experience]]
