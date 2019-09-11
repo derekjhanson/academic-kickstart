@@ -19,16 +19,14 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Engineer"
-  company = "GEIRI North America"
-  company_url = "https://www.geirina.net/research/2"
-  location = "San Jose, CA, USA"
-  date_start = "2017-06-26"
+  title = "Graduate Teaching Assistant"
+  company = "SDS 302 - Data Analysis for the Health Sciences"
+  company_url = "https://stat.utexas.edu/"
+  location = "Austin, TX, USA"
+  date_start = ""
   date_end = ""
   description = """
-  AI & System Analytics Group 
-  
-  Working with Dr. Di Shi at on the following topics:
+  s:
   
   * Machine learning and PMU based load modeling
   * AI-based oscillation detection and control
