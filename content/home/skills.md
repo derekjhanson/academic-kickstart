@@ -17,9 +17,9 @@ subtitle = ""
   
 [[feature]]
   icon = ""
-  icon_pack = "Statistical Software"
-  name = "R, Python, MPlus, SAS, SPSS, STATA"
-  description = ""
+  icon_pack = ""
+  name = "Statistical Software"
+  description = "R, Python, MPlus, SAS, SPSS, STATA"
   
 [[feature]]
   icon = ""
@@ -29,7 +29,7 @@ subtitle = ""
 
 [[feature]]
   icon = ""
-  icon_pack = "Teaching"
-  name = "Certified K-12 Teacher - Texas"
-  description = ""
+  icon_pack = ""
+  name = "Teaching"
+  description = "Certified K-12 Teacher - Texas"
 +++
