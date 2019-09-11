@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2017-08-01"
   date_end = ""
   description = """
-  Worked with Dr. Harvey, Dr. Hong, Dr. Teufel, & Dr. Kang across five semesters of statistics courses.
+  Worked with Dr. Harvey (x2), Dr. Hong, Dr. Teufel, & Dr. Kang across five semesters of statistics courses.
   
   * Taught three statistics lab sections, facilitating application of statistical concepts to real-life data
   * Explained statistical concepts and methods in-class and during three weekly office hours
@@ -41,7 +41,7 @@ date_format = "January 2006"
   date_start = "2017-01-01"
   date_end = "2017-05-30"
   description = """
-  Worked with Dr. Dix.
+  Worked with Dr. Dix in a small-section honors course.
   
   * Led daily in-class discussion groups, facilitating the conversation and directing inquiry into the concepts
   * Provided detailed, individual feedback on course essays
