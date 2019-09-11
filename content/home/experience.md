@@ -26,11 +26,9 @@ date_format = "January 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = """
-  s:
-  
-  * Machine learning and PMU based load modeling
-  * AI-based oscillation detection and control
-  * Commercial hybrid AC/DC microgrid planning and operation
+  * Taught three statistics lab sections, facilitating application of statistical concepts to real-life data
+  * Explained statistical concepts and methods in-class and during three weekly office hours
+  * Graded ~100 student exams throughout the semester and final research poster projects
   """
 
 [[experience]]
