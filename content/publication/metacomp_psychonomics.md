@@ -19,7 +19,7 @@ authors = ["**Derek J. Hanson**", "Veronica X. Yan"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "*Psychonomic Society Annual Meeting*, Montreal, QB, Canada, November 2019."
+publication = "*Psychonomic Society Annual Meeting*, Montreal, QC, Canada, November 2019."
 publication_short = "*Psychonomics*"
 
 # Abstract and optional shortened version.
