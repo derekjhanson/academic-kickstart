@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Education Research"
-  url = "#publication"
+  url = "#publications"
   weight = 20
 
 [[main]]
-  name = "Sports Statistics"
-  url = "#talk"
+  name = "Statistics in Sports Research"
+  url = "#talks"
   weight = 30
 
 [[main]]
