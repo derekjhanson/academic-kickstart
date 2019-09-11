@@ -20,7 +20,8 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Graduate Teaching Assistant"
-  company = "SDS 302 - Data Analysis for the Health Sciences & SDS 351M Biostatistics"
+  company = "SDS 302 - Data Analysis for the Health Sciences<br/>
+  & SDS 351M Biostatistics"
   company_url = "https://stat.utexas.edu/"
   location = "Austin, TX, USA"
   date_start = "2017-08-01"
@@ -49,33 +50,29 @@ date_format = "January 2006"
 """
 
 [[experience]]
-  title = "Research Internship"
-  company = "Mitsubishi Electric Research Laboratories"
-  company_url = "http://www.merl.com/research/data-analytics"
-  location = "Cambridge, MA, USA"
-  date_start = "2014-06-01"
-  date_end = "2014-09-30"
+  title = "Consultant"
+  company = "Large US-Based Educational Technology Company"
+  company_url = ""
+  location = "California, USA"
+  date_start = "2017-09-01"
+  date_end = "2018-08-30"
   description = """
-  Data Analytics Group
-  
-  Worked with Dr. Hongbo Sun on distribution system reconfiguration with energy storage"""
+  Drafted a research synthesis of recent educational technology programs for early learners (PreK – 3rd Grade) with statistical analyses of program and learner variables across a variety of outcomes.
+"""
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Department of Electrical Engineering, University of Washington"
-  company_url = "http://labs.ece.uw.edu/real/"
-  location = "Seattle, WA, USA"
-  date_start = "2011-09-16"
-  date_end = "2017-06-15"
-  description = """
-  Renewable Energy Analysis Lab (REAL LAb) 
+  title = "Academic Mentor"
+  company = "Athletics Department, University of Texas at Austin"
+  company_url = ""
+  location = "Austin, TX, USA"
+  date_start = "2016-08-16"
+  date_end = "2016-12-30"
+  description = """  
+  Worked with select players on the football team:
   
-  Worked with Prof. Daniel Kirschen on the following topics:
-  
-  * Energy storage operation and planning in electricity markets
-  * Renewable integration with stochastic unit commitment
-  * Scenario generation and reduction
-  * Energy forecasting
+  * Met daily for mentoring and academic support
+  * Helped students review key course concepts, writing and composition of papers, and checked for understanding through targeted
+questioning.
   """
 
 +++
