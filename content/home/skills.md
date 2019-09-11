@@ -17,7 +17,7 @@ subtitle = ""
   
 [[feature]]
   icon = ""
-  icon_pack = ""
+  icon_pack = "Statistical Software"
   name = "R, Python, MPlus, SAS, SPSS, STATA"
   description = ""
   
@@ -25,11 +25,11 @@ subtitle = ""
   icon = ""
   icon_pack = ""
   name = "Statistical Modeling"
-  description = "Mulilevel Modeling, SEM, Regression, ANOVA/ANCOVA"
+  description = "Mulilevel Modeling, SEM, Regression, ANOVA/ANCOVA, Ensemble Models"
 
 [[feature]]
   icon = ""
-  icon_pack = ""
-  name = "Certified K-12 Teacher"
+  icon_pack = "Teaching"
+  name = "Certified K-12 Teacher - Texas"
   description = ""
 +++
