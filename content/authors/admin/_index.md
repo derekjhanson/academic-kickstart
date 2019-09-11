@@ -23,14 +23,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Choice in the Classroom
 - Motivation
-- Self_Regulated Learning
+- Self-Regulated Learning
 - Metacognition
 
 education:
   courses:
   - course: PhD Student in Educational Psychology
     institution: University of Texas at Austin
-    year: 2016
+    year: ""
   - course: JD
     institution: University of Kansas
     year: 2007
