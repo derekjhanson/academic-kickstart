@@ -53,7 +53,7 @@ date_format = "January 2006"
   company = "Large US-Based Educational Technology Company"
   company_url = ""
   location = "California, USA"
-  date_start = "2017-09-01"
+  date_start = "2017-07-31"
   date_end = "2018-08-30"
   description = """
   Drafted a research synthesis of recent educational technology programs for early learners (PreK – 3rd Grade) with statistical analyses of program and learner variables across a variety of outcomes.
