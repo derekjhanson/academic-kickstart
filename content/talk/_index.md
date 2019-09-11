@@ -1,5 +1,5 @@
 ---
-title: Sports Statistics Projects
+title: Sports Statistical Modeling & Research
 
 # View.
 #   1 = List
