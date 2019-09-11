@@ -5,25 +5,25 @@ date = 2014-07-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Hrvoje Pandžić", "Yury Dvorkin", "__**Yishen Wang**__", "Ting Qiu", "Daniel Kirschen"]
+authors = ["__**Derek J. Hanson__**", "Veronica X. Yan"]
 
 # Publication type.
 # Legend:
-# 0 = Uncategorized
+# 0 = Conference poster
 # 1 = Conference paper
 # 2 = Journal article
 # 3 = Manuscript
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE PES General Meeting*, National Harbor, MD, USA, July 2014."
-publication_short = "*IEEE PESGM*"
+publication = "*Psychonomic Society Annual Meeting*, Montreal, QB, Canada, November 2019."
+publication_short = "*Psychonomics*"
 
 # Abstract and optional shortened version.
-abstract = "The increasing share of wind power in power systems requires changes in the operating procedures. Day-ahead scheduling no longer has to fit only with slow and easily predictable changes in load, but also with more abrupt changes in wind power. Procedures for dealing with wind uncertainty, such as stochastic, robust, and interval unit commitment algorithms, typically assume a one-hour resolution. Since wind generation can change significantly within an hour, shorter optimization intervals might be required to adequately reflect this uncertainty. This paper compares the stochastic, interval and robust unit commitment formulations with resolutions of 1 hour and 15 minutes. The schedules produced by these various algorithms are compared using a Monte Carlo simulation procedure on a modified version of the 24-bus IEEE-RTS."
+abstract = "Metacomprehension research typically focuses on a single cue reported by readers, yet we know that readers’ judgments can be influenced by multiple cues (Jaeger, 2012). In the present study, participants read a series of text passages on astrological phenomena, made metacomprehension judgments, reported and weighted the cues they used to make their judgments, and then took a comprehension test. We categorized these cues as relating to shallow processing (fluency, effort), to deep processing (summarizing, visualizing), or to prior knowledge and beliefs (self-efficacy, interest). The majority (66%) reported using multiple cues. Overall, readers relied most on shallow processing cues, followed by deep processing cues, and finally prior experiences. Although subject to self-report limitations, regression analyses yielded interesting patterns: those who reported just a single cue, who relied on prior knowledge, or who reported using the deep processing cues scored higher on the final test. Deep processing cues also typically related to higher JOLs, but not to metacognitive accuracy. Self-efficacy and effort were also related to JOLs, but not to test performance, resulting in overconfidence (self-efficacy) or underconfidence (effort)."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,8 +50,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/6939548"
-url_preprint = "https://labs.ece.uw.edu/real/Library/Papers/effect_of_time_resolution_on_uc.pdf"
+url_pdf = ""
+url_preprint = ""
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
