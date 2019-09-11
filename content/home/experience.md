@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "SDS 302 - Data Analysis for the Health Sciences"
   company_url = "https://stat.utexas.edu/"
   location = "Austin, TX, USA"
-  date_start = ""
+  date_start = "2019-08-01"
   date_end = ""
   description = """
   s:
