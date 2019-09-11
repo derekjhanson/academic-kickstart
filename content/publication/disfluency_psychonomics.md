@@ -51,8 +51,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://drive.google.com/open?id=1siT3GhY53hCMwojYcBNEySaCn-aw7jxQ"
+#url_preprint = ""
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
