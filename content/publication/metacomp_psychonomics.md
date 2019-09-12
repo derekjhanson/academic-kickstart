@@ -1,6 +1,6 @@
 +++
 
-title = "What cues do people think they use to make metacomprehension judgments?"
+title = "What Cues Do People Think They Use to Make Metacomprehension Judgments?"
 date = 2019-09-10T00:00:00
 draft = false
 
