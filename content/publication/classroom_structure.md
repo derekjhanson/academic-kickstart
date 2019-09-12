@@ -1,6 +1,6 @@
 +++
 
-title = "How do the structural characteristics of a classroom (rules, procedures, organization, etc.) impact student motivation, engagement, and achievement?"
+title = "How Do The Structural Characteristics of a Classroom (Rules, Procedures, Organization, etc.) Impact Student Motivation, Engagement, and Achievement?"
 date = 2018-04-10T00:00:00
 draft = false
 
